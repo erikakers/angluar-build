@@ -1,0 +1,15 @@
+{
+  "name": "angular-build",
+  "version": "0.0.1",
+  "description": "Specific Angular Build Script.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erikakers/angluar-build.git"
+  },
+  "author": "Erik Akers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erikakers/angluar-build/issues"
+  },
+  "homepage": "https://github.com/erikakers/angluar-build"
+}
