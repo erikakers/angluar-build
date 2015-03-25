@@ -11,5 +11,11 @@
   "bugs": {
     "url": "https://github.com/erikakers/angluar-build/issues"
   },
-  "homepage": "https://github.com/erikakers/angluar-build"
+  "homepage": "https://github.com/erikakers/angluar-build",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "jit-grunt": "^0.9.1",
+    "load-grunt-config": "^0.16.0",
+    "time-grunt": "^1.1.0"
+  }
 }
