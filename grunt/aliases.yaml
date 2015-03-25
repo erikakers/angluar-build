@@ -1,5 +1,4 @@
 # Grunt Task List
-
 release:
   - bump
 release-minor:
